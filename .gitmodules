@@ -22,6 +22,7 @@
 [submodule "OMC"]
 	path = OMCompiler
 	url = https://github.com/gmaestre-TnS/OMCompiler.git
+    branch = maintenance/v1.13
 [submodule "testsuite"]
 	path = testsuite
 	url = https://github.com/OpenModelica/OpenModelica-testsuite.git
