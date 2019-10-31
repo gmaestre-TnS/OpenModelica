@@ -32,3 +32,5 @@
 [submodule "OMSimulator"]
 	path = OMSimulator
 	url = https://github.com/OpenModelica/OMSimulator.git
+[submodule "OMCompiler"]
+	branch = maintenance/v1.13
